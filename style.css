@@ -101,31 +101,32 @@
 
 
 .mark:hover {
-    width: 320px;
-    height: 270px;
+    transform: scale(1.1);
+    transition: transform 1s;
     background-color: blueviolet;
-    position: absolute;
+    
 }
 
 .diz:hover {
-    width: 320px;
-    height: 270px;
+    
     background-color: yellow;
-    position: absolute;
+    transform: scale(1.1);
+    transition: transform 1s;
+    
 }
 
 .pro:hover {
-    width: 320px;
-    height: 270px;
+    transform: scale(1.1);
+    transition: transform 1s;
     background-color: darkturquoise;
-    position: absolute;
+    
 }
 
 .sis:hover {
-    width: 320px;
-    height: 270px;
+    transform: scale(1.1);
+    transition: transform 1s;
     background-color: green;
-    position: absolute;
+    
 }
 
 .main2 {
