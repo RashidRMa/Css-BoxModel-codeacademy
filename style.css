@@ -12,7 +12,7 @@
     float: left;
     width: 600px;
     height: 500px;
-   
+
 
 }
 
@@ -90,38 +90,133 @@
     padding: 15px;
 }
 
-.main .ted2 p{
+.main .ted2 p {
     color: rgb(44, 44, 44);
     margin-top: 80px;
     font-size: 20px;
     font-weight: bolder;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-/* .main .ted2 p:hover, .main .ted2 p:active {font-size:150%}; */
 
-.mark:hover{
+
+.mark:hover {
     width: 320px;
     height: 270px;
     background-color: blueviolet;
     position: absolute;
 }
-.diz:hover{
+
+.diz:hover {
     width: 320px;
     height: 270px;
     background-color: yellow;
     position: absolute;
 }
 
-.pro:hover{
+.pro:hover {
     width: 320px;
     height: 270px;
-    background-color:darkturquoise;
+    background-color: darkturquoise;
     position: absolute;
 }
-.sis:hover{
+
+.sis:hover {
     width: 320px;
     height: 270px;
     background-color: green;
     position: absolute;
+}
+
+.main2 {
+    clear: left;
+    margin: 300px 0px 0px 180px;
+}
+
+.text2 {
+    margin-top: 80px;
+    margin-right: 900px;
+}
+
+.line {
+    margin-top: 80px;
+}
+
+.niye {
+    padding-top: 90px;
+    font-size: 40px;
+    font-family: sans-serif;
+    letter-spacing: 4.2px;
+    color: rgb(75, 74, 74);
+}
+
+.acad {
+    font-weight: bolder;
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(75, 74, 74);
+    line-height: 30px;
+}
+
+.text2 {
+    color: rgb(75, 74, 74);
+}
+
+/* .haqq{
+    width: 1200px;
+    height: 600px;
+    background-color: chartreuse;
+}
+.haqq img{
+   
+    width: 250px;
+    height: 250px;
+}
+
+.haqq .buraxilis img{
+    float: left;
+} */
+
+.haqq {
+    margin: 80px 0px 30px 180px;
+}
+
+.area1 {
+    float: left;
+    width: 600px;
+    height: 600px;
+
+}
+
+.area2 {
+    float: left;
+    width: 600px;
+    height: 600px;
+
+}
+
+.area1 img {
+    float: left;
+}
+
+.haqq a {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.haqq p {
+
+    margin: 30px 30px 30px 30px;
+}
+
+.area2 img {
+    float: left;
+}
+
+.clear {
+    clear: both;
 }
